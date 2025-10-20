@@ -10,7 +10,6 @@ A collection of hands-on exercises and projects completed during my Gen AI inter
 
 - Practice exercises
 - Lab assignments
-- Agent development implementations
 
 ---
 
